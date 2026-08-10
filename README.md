@@ -15,6 +15,11 @@
 - Contribution: Collaborated on creating a secure and efficient platform for student elections.
 - Impact: Enhanced the transparency and accessibility of the voting process.
 
+<h6>CHAMIS (An Organization-wide Integrated Information System</h6>
+
+- Contribution: Developed an Asset Registry subsystem as a module to CHAMIS
+- Description: Worked on a comprehensive system for managing assets across the facilities of Christian Health Association of Malawi nation-wide.
+
 ## Focus Areas
 <h6>Web Development</h6>
 Building responsive and dynamic web applications.
