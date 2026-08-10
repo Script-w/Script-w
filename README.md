@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile
 <h6>About Me</h6>
 
--  I’m currently working as an Infrastructure and Security Lead at Lumina Holdings Limited
+- 👨🏽‍💻I’m currently working as an Infrastructure and Security Lead at Lumina Holdings Limited
 - 💻 I'm on a journey of personal development through coding and collaborative projects.
 - ⚙ My interests span web development and cybersecurity, and I enjoy working on impactful projects.
 
