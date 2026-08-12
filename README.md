@@ -41,13 +41,13 @@ I am an **Infrastructure & Security Lead** at **Lumina Holdings Limited**, speci
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Script-w&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Script-w&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Script-w&layout=compact&theme=dark)
 
 ---
 
 ### 📫 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/quswayy-qassam)
-- ✉️ **Email:** [YOUR_EMAIL@example.com](mailto:qquswayi@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/quswayy-qassam](https://linkedin.com/in/quswayy-qassam)
+- ✉️ **Email:** [qquswayi@gmail.com](mailto:qquswayi@gmail.com)
 - 🤝 Open to security research collaborations, open-source tooling, and infrastructure defense discussions.
