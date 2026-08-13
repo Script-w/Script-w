@@ -1,4 +1,4 @@
-# Hi there, I'm a Quswayyi Qassam 👋
+# Hi there, I'm Quswayyi Qassam 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/quswayy-qassam)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:qquswayi@gmail.com)
