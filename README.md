@@ -41,8 +41,8 @@ I am an **Infrastructure & Security Lead** at **Lumina Holdings Limited**, speci
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Script-w&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Script-w&layout=compact&theme=dark)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=Script-w&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Script-w&layout=compact&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
