@@ -11,4 +11,3 @@ A **cybersecurity aficionado**, specializing in systems security engineering, se
 
 - 💼 **LinkedIn:** [linkedin.com/in/quswayy-qassam](https://linkedin.com/in/quswayy-qassam)
 - ✉️ **Email:** [qquswayi@gmail.com](mailto:qquswayi@gmail.com)
-- 🤝 Open to security research collaborations, open-source tooling, and infrastructure defense discussions.
